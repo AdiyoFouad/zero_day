@@ -1,2 +1,2 @@
 *Emphasize* _emphasize
-**Strong** __Strong__
+**Strong** __Strong__  
